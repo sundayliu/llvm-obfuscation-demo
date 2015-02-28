@@ -24,3 +24,11 @@ proguard/
 
 # Log Files
 *.log
+
+*.DS_Store
+.DS_Store
+*.a
+obj/
+*.d
+*.o
+libs/
