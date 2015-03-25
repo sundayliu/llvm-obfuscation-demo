@@ -7,7 +7,10 @@ LOCAL_SRC_FILES:=test.cpp
 
 LOCAL_LDLIBS:=-static
 
-# LOCAL_CFLAGS:=-mllvm -xse -mllvm -sub -mllvm -fla -mllvm -bcf
+#LOCAL_CFLAGS:=-mllvm -xse 
+#LOCAL_CFLAGS+=-mllvm -sub 
+#LOCAL_CFLAGS+=-mllvm -fla 
+#LOCAL_CFLAGS+=-mllvm -bcf
 
 include $(BUILD_EXECUTABLE)
 

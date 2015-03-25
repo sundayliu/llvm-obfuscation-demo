@@ -1,0 +1,1 @@
+set PATH=d:\android-ndk-r10d\toolchains\llvm-3.4-obfuscator\prebuilt\windows\bin;%PATH%
